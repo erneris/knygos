@@ -1,11 +1,10 @@
-.headeris{
+.bg-primary{
     background-color:#563E7C;
-    height :80px;
-    width :1600px;
+    height :90px;
 }
 #knyga{
     margin-left:10px;
-    margin-top:-15px;
+    margin-top:5px;
     width:100px;
     height:75px;
     display:inline-block;
@@ -14,5 +13,13 @@
     display:inline-block;
     margin-left:600px;
     color: #cbbde2;
+    margin-top:10px;
     
+}
+#fotke{
+    width:286px;
+    height:180px;
+}
+.card{
+    margin-top:100px;
 }
