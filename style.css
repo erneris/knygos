@@ -11,7 +11,7 @@
 }
 #headeristext{
     display:inline-block;
-    margin-left:600px;
+    margin-left:1000px;
     color: #cbbde2;
     margin-top:10px;
     
@@ -22,4 +22,5 @@
 }
 .card{
     margin-top:100px;
+    margin-left:20px;
 }
