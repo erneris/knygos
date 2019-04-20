@@ -21,6 +21,22 @@
     height:180px;
 }
 .card{
-    margin-top:100px;
-    margin-left:20px;
+    margin-top:30px;
+    margin-left:10px;
+}
+#book{
+    left:300px;
+    top:-628px;
+}
+#boo{
+    left:600px;
+    top:-1256px;
+}
+#ook{
+    left:900px;
+    top:-1885px;
+}
+#kn{
+    left:1200px;
+    top:-2489px;
 }
