@@ -1,0 +1,42 @@
+.bg-primary{
+    background-color:#563E7C;
+    height :90px;
+}
+#knyga{
+    margin-left:10px;
+    margin-top:5px;
+    width:100px;
+    height:75px;
+    display:inline-block;
+}
+#headeristext{
+    display:inline-block;
+    margin-left:1000px;
+    color: #cbbde2;
+    margin-top:10px;
+
+}
+#fotke{
+    width:286px;
+    height:180px;
+}
+.card{
+    margin-top:30px;
+    margin-left:10px;
+}
+#book{
+    left:300px;
+    top:-533px;
+}
+#boo{
+    left:600px;
+    top:-1066px;
+}
+#ook{
+    left:900px;
+    top:-1600px;
+}
+#kn{
+    left:1200px;
+    top:-2134px;
+}
